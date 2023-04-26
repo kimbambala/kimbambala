@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Nick and I am currently on my learning phase to becoming a professional software developer.
+I can be reached at nickprincy@gmail.com.
