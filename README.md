@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Nick and I am currently in my learning phase to become a professional software developer.
+My name is Nick and I am software developer.
 I can be reached at nick.ngouma@alumni.unlv.edu or nickprincy@gmail.com.
